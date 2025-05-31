@@ -13,7 +13,7 @@ Follow these steps to set up the project locally:
 
 ### 1️⃣ Clone the Repository
 ```sh
-git clone https://github.com/sanket20038/resume-builder-.git
+git clone https://github.com/PritamRBarai/ResumeBuilder.git
 cd resume-builder-
 ```
 
